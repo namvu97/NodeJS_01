@@ -5,7 +5,9 @@
   "users": [
     {
       "name": "Nam",
-      "id": "Er2etMPO"
+      "id": "Er2etMPO",
+      "email": "namvu97@gmail.com",
+      "password": "54e193277215c92570bc9659bd48ff40"
     },
     {
       "name": "Thanh",
@@ -36,6 +38,16 @@
       "name": "23",
       "phone": "23",
       "id": "5tNv-gTJ"
+    },
+    {
+      "name": "",
+      "phone": "",
+      "id": "M4fH2Pgm"
+    },
+    {
+      "name": "123",
+      "phone": "2",
+      "id": "yf_RHF42"
     }
   ]
 }

@@ -7,9 +7,9 @@ block content
     form(method="POST", action="/users/create")
         .form-group
             label(for="name") Name
-            input#name.form-control(name="name", type="text", value=values.name ? values.name : '')
+            input#name.form-control(name="name", type="text", value=values ? values.name : '')
         .form-group
             label(for="phone") Phone
-            input#phone.form-control(name="phone", type="text", value=values.phone ? values.phone : '')
+            input#phone.form-control(name="phone", type="text", value=values ? values.phone : '')
 
         button.btn.btn-primary Create
